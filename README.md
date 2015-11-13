@@ -1,6 +1,7 @@
 # iframe-testing
 Sinatra with one page that loads an iframe
 
-# Ruby
-Gem install sinatra
-ruby iframe.rb
+# Run
+`Gem install sinatra`
+
+`ruby iframe.rb`
